@@ -24,8 +24,6 @@ https://huggingface.co/Melinnaaa/llama-3.1-tuned-looplm
 🔗 Mistral V3 Tuned - LoopLM
 https://huggingface.co/Melinnaaa/mistral-v3-tuned-looplm
 
-Una vez descargados, debes copiar los archivos al contenedor de Docker donde se ejecuta Ollama.
-
 ## 4. Crear carpetas para los modelos (dentro de Docker Desktop)
   1. Abre Docker Desktop.
   
